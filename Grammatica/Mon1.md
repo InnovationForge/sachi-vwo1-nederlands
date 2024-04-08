@@ -162,7 +162,14 @@ B) Regent
 C) Al de hele dag  
 D) De dag  
 
-**Antwoord 13:** B) Regent
+**Antwoord 13:** A) Het
+Om de vraag te beantwoorden over het onderwerp in de zin "Het regent al de hele dag," moeten we eerst begrijpen wat het onderwerp van een zin is.
+
+Het onderwerp van een zin is het woord of de woordgroep waar de rest van de zin iets over zegt of waar iets over wordt verteld. In dit geval is het onderwerp van de zin "Het regent al de hele dag." het woord "Het", omdat dit het onderwerp is waarover iets wordt gezegd (namelijk dat het regent).
+
+Daarom is het juiste antwoord op de vraag:
+
+
 
 ---
 
