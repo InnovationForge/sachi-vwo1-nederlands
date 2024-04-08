@@ -237,7 +237,13 @@ C) Heeft
 D) Mooie fiets  
 
 **Antwoord 18:** D) Fiets
+Het zelfstandig naamwoord in de zin "Mijn zus heeft een mooie fiets" is het woord "fiets". Een zelfstandig naamwoord (ook wel substantief genoemd) is een woord dat een persoon, dier, ding, plaats of idee aanduidt.
 
+In deze zin is "fiets" het zelfstandig naamwoord omdat het het object is waar de zin over gaat; het is het ding waarover iets wordt gezegd (namelijk dat het mooi is en dat de zus er een heeft).
+
+Daarom is het juiste antwoord op de vraag:
+
+D) Mooie fiets
 ---
 
 **Instructie voor de vraag:** Geef het juiste lidwoord voor het zelfstandig naamwoord.
