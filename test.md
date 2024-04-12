@@ -1,6 +1,9 @@
 
 # Vrijdag
 
+Meewerkend Voorwerp
+A Meewerkend Voorwerp is the one who receives or learns something or from whom something is taken¹. In the sentence 'De zon geeft ons energie' ('The sun gives us energy'), 'ons' is the Meewerkend Voorwerp¹. The Meewerkend Voorwerp is often the 'receiving party'. It is a certain type of indirect object¹. Often the Meewerkend Voorwerp starts with the preposition 'aan' – if it is not in the sentence, it can usually be thought of¹.
+
 ### Meewerkend voorwerp
 
 **Instructie voor de vraag:** Onderstreep het meewerkend voorwerp in de gegeven zin.
@@ -10,116 +13,99 @@
 A) Ik  
 B) Geef  
 C) Mijn moeder  
-D) Een cadeau  
-
+D) Een cadeau voor haar verjaardag  
 
 ---
 
 **Instructie voor de vraag:** Identificeer het meewerkend voorwerp in de zin.
 
-**Vraag 2:** Welk deel van de zin fungeert als meewerkend voorwerp?  
-*"De leraar legt de studenten de lesstof goed uit."*  
-A) De leraar  
-B) Legt  
-C) De studenten  
-D) De lesstof  
-
+**Vraag 2:** Welk deel van de zin vormt het meewerkend voorwerp?  
+*"Zij stuurt haar vriendin een kaartje uit het buitenland."*  
+A) Zij  
+B) Stuurt  
+C) Haar vriendin  
+D) Een kaartje uit het buitenland  
 
 ---
 
 **Instructie voor de vraag:** Geef het meewerkend voorwerp in de zin.
 
 **Vraag 3:** Wat is het meewerkend voorwerp in deze zin?  
-*"Zij schrijft haar vriendin een lange brief."*  
-A) Zij  
-B) Schrijft  
-C) Haar vriendin  
-D) Een lange brief  
-
-
----
-
-**Instructie voor de vraag:** Onderscheid het meewerkend voorwerp in de zin.
-
-**Vraag 4:** Welk deel van de zin vormt het meewerkend voorwerp?  
-*"Hij geeft zijn zus advies over haar studie."*  
-A) Hij geeft  
-B) Zijn zus  
-C) Advies over haar studie  
-D) Over haar studie  
-
+*"Hij vertelt zijn zus het goede nieuws."*  
+A) Hij  
+B) Vertelt  
+C) Zijn zus  
+D) Het goede nieuws  
 
 ---
 
 **Instructie voor de vraag:** Benoem het meewerkend voorwerp in de gegeven zin.
 
-**Vraag 5:** Wat is het meewerkend voorwerp in deze zin?  
-*"De bakker verkoopt de klant vers brood."*  
-A) De bakker  
-B) Verkoopt  
-C) De klant  
-D) Vers brood  
+**Vraag 4:** Wat is het meewerkend voorwerp in deze zin?  
+*"Zij koopt haar dochter een nieuwe fiets."*  
+A) Zij  
+B) Koopt  
+C) Haar dochter  
+D) Een nieuwe fiets  
 
+---
+
+**Instructie voor de vraag:** Onderscheid het meewerkend voorwerp in de zin.
+
+**Vraag 5:** Welk deel van de zin fungeert als het meewerkend voorwerp?  
+*"Hij geeft zijn vriend advies over zijn studie."*  
+A) Hij geeft  
+B) Zijn vriend  
+C) Advies over zijn studie  
+D) Over zijn studie  
 
 ### Aanwijzend, vragend en onbepaald voornaamwoord
 
-**Instructie voor de vraag:** Geef het aanwijzend voornaamwoord in de gegeven zin.
+**Instructie voor de vraag:** Kies het juiste aanwijzend voornaamwoord voor de gegeven situatie.
 
-**Vraag 6:** Wat is het aanwijzend voornaamwoord in de volgende zin?  
+**Vraag 6:** Welk aanwijzend voornaamwoord duidt iets aan dat dichtbij is?  
+A) Die  
+B) Dat  
+C) Deze  
+D) Dit  
+
+---
+
+**Instructie voor de vraag:** Selecteer het vragend voornaamwoord voor de volgende vraag.  
+**Vraag 7:** Welk vragend voornaamwoord gebruik je om te vragen naar een persoon?  
+A) Wie  
+B) Wat  
+C) Welk  
+D) Wanneer  
+
+---
+
+**Instructie voor de vraag:** Geef het onbepaald voornaamwoord voor een niet-specifiek persoon.
+
+**Vraag 8:** Wat is het onbepaald voornaamwoord voor een niet-specifiek persoon?  
+A) Hij  
+B) Zij  
+C) Men  
+D) Haar  
+
+---
+
+**Instructie voor de vraag:** Benoem het aanwijzend voornaamwoord in de zin.
+
+**Vraag 9:** Wat is het aanwijzend voornaamwoord in deze zin?  
 *"Deze auto is van mij."*  
 A) Deze  
 B) Auto  
-C) Is  
-D) Mij  
-
-
----
-
-**Instructie voor de vraag:** Selecteer het vragend voornaamwoord in de gegeven zin.
-
-**Vraag 7:** Wat is het vragend voornaamwoord in deze zin?  
-*"Welke kleur heeft jouw nieuwe auto?"*  
-A) Welke  
-B) Kleur  
-C) Heeft  
-D) Jouw  
-
+C) Is van mij  
+D) Van mij  
 
 ---
 
-**Instructie voor de vraag:** Geef het onbepaald voornaamwoord in de zin.
+**Instructie voor de vraag:** Selecteer het juiste vragend voornaamwoord in de zin.
 
-**Vraag 8:** Wat is het onbepaald voornaamwoord in deze zin?  
-*"Iedereen was aanwezig tijdens het feest."*  
-A) Iedereen  
-B) Was  
-C) Aanwezig  
-D) Tijdens het feest  
-
-
----
-
-**Instructie voor de vraag:** Identificeer het aanwijzend voornaamwoord in de gegeven zin.
-
-**Vraag 9:** Welk deel van de zin fungeert als het aanwijzend voornaamwoord?  
-*"Dat boek heb ik al gelezen."*  
-A) Dat boek  
-B) Heb  
-C) Al gelezen  
-D) Gelezen  
-
-
----
-
-**Instructie voor de vraag:** Geef het vragend voornaamwoord in de zin.
-
-**Vraag 10:** Wat is het vragend voornaamwoord in deze zin?  
-*"Waarom ben je zo laat thuis?"*  
-A) Waarom  
-B) Ben  
-C) Je  
-D) Zo laat  
-
-
----
+**Vraag 10:** Welk vragend voornaamwoord gebruik je om te vragen naar een bezit?  
+A) Wie  
+B) Wat  
+C) Welk  
+D) Wiens  
 
