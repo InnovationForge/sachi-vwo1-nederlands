@@ -1,127 +1,125 @@
 
-# Donderdag
+# Vrijdag
 
+### Meewerkend voorwerp
 
-### Naamwoordelijk gezegde
+**Instructie voor de vraag:** Onderstreep het meewerkend voorwerp in de gegeven zin.
 
-**Instructie voor de vraag:** Selecteer het naamwoordelijk gezegde in de gegeven zin.
-
-**Vraag 1:** Wat is het naamwoordelijk gezegde in de volgende zin?  
-*"De taak van de leraar is het onderwijzen van de leerlingen."*  
-A) De taak  
-B) Van de leraar  
-C) Is het onderwijzen  
-D) Van de leerlingen  
-
-
----
-
-**Instructie voor de vraag:** Benoem het naamwoordelijk gezegde in de gegeven zin.
-
-**Vraag 2:** Wat is het naamwoordelijk gezegde in deze zin?  
-*"Het belangrijkste doel is het behalen van goede resultaten."*  
-A) Het belangrijkste  
-B) Doel is het behalen  
-C) Van goede resultaten  
-D) Goede resultaten  
-
-
----
-
-**Instructie voor de vraag:** Identificeer het naamwoordelijk gezegde in de gegeven zin.
-
-**Vraag 3:** Welk deel van de zin fungeert als naamwoordelijk gezegde?  
-*"Haar droom is een wereldreis maken."*  
-A) Haar  
-B) Droom is een  
-C) Wereldreis maken  
-D) Een wereldreis  
-
-
----
-
-**Instructie voor de vraag:** Geef het naamwoordelijk gezegde in de zin.
-
-**Vraag 4:** Wat is het naamwoordelijk gezegde in deze zin?  
-*"Zijn passie is schilderen."*  
-A) Zijn passie  
-B) Is schilderen  
-C) Is  
-D) Schilderen  
-
-
----
-
-**Instructie voor de vraag:** Onderscheid het naamwoordelijk gezegde in de zin.
-
-**Vraag 5:** Welk deel van de zin vormt het naamwoordelijk gezegde?  
-*"De uitdaging blijft het vinden van een oplossing."*  
-A) De uitdaging  
-B) Blijft het vinden  
-C) Van een oplossing  
-D) Het vinden  
-
-
-### Zelfstandig, hulp- en koppelwerkwoord
-
-**Instructie voor de vraag:** Geef het zelfstandig werkwoord in de gegeven zin.
-
-**Vraag 6:** Wat is het zelfstandig werkwoord in de volgende zin?  
-*"De kat speelt in de tuin."*  
-A) De  
-B) Kat  
-C) Speelt  
-D) In de tuin  
-
-
----
-
-**Instructie voor de vraag:** Benoem het hulpwerkwoord in de zin.
-
-**Vraag 7:** Wat is het hulpwerkwoord in deze zin?  
-*"Ik heb mijn huiswerk gemaakt."*  
+**Vraag 1:** Wat is het meewerkend voorwerp in de volgende zin?  
+*"Ik geef mijn moeder een cadeau voor haar verjaardag."*  
 A) Ik  
-B) Heb  
-C) Mijn huiswerk  
-D) Gemaakt  
+B) Geef  
+C) Mijn moeder  
+D) Een cadeau  
 
 
 ---
 
-**Instructie voor de vraag:** Identificeer het koppelwerkwoord in de gegeven zin.
+**Instructie voor de vraag:** Identificeer het meewerkend voorwerp in de zin.
 
-**Vraag 8:** Welk woord fungeert als koppelwerkwoord in deze zin?  
-*"Zij lijkt blij met het nieuws."*  
+**Vraag 2:** Welk deel van de zin fungeert als meewerkend voorwerp?  
+*"De leraar legt de studenten de lesstof goed uit."*  
+A) De leraar  
+B) Legt  
+C) De studenten  
+D) De lesstof  
+
+
+---
+
+**Instructie voor de vraag:** Geef het meewerkend voorwerp in de zin.
+
+**Vraag 3:** Wat is het meewerkend voorwerp in deze zin?  
+*"Zij schrijft haar vriendin een lange brief."*  
 A) Zij  
-B) Lijkt  
-C) Blij met het nieuws  
-D) Het nieuws  
+B) Schrijft  
+C) Haar vriendin  
+D) Een lange brief  
 
 
 ---
 
-**Instructie voor de vraag:** Geef het koppelwerkwoord in de zin.
+**Instructie voor de vraag:** Onderscheid het meewerkend voorwerp in de zin.
 
-**Vraag 9:** Wat is het koppelwerkwoord in deze zin?  
-*"De taart smaakt heerlijk."*  
-A) De  
-B) Taart  
-C) Smaakt  
-D) Heerlijk  
-
-
----
-
-**Instructie voor de vraag:** Onderscheid het hulpwerkwoord in de zin.
-
-**Vraag 10:** Welk deel van de zin vormt het hulpwerkwoord?  
-*"Hij zal straks zijn verslag presenteren."*  
-A) Hij zal  
-B) Straks zijn verslag  
-C) Presenteren  
-D) Zijn verslag  
+**Vraag 4:** Welk deel van de zin vormt het meewerkend voorwerp?  
+*"Hij geeft zijn zus advies over haar studie."*  
+A) Hij geeft  
+B) Zijn zus  
+C) Advies over haar studie  
+D) Over haar studie  
 
 
 ---
 
-Ik hoop dat deze voorbeeldexamenvragen en antwoorden behulpzaam zijn voor het oefenen van grammatica op VWO-niveau. Laat het me weten als je nog meer hulp nodig hebt!
+**Instructie voor de vraag:** Benoem het meewerkend voorwerp in de gegeven zin.
+
+**Vraag 5:** Wat is het meewerkend voorwerp in deze zin?  
+*"De bakker verkoopt de klant vers brood."*  
+A) De bakker  
+B) Verkoopt  
+C) De klant  
+D) Vers brood  
+
+
+### Aanwijzend, vragend en onbepaald voornaamwoord
+
+**Instructie voor de vraag:** Geef het aanwijzend voornaamwoord in de gegeven zin.
+
+**Vraag 6:** Wat is het aanwijzend voornaamwoord in de volgende zin?  
+*"Deze auto is van mij."*  
+A) Deze  
+B) Auto  
+C) Is  
+D) Mij  
+
+
+---
+
+**Instructie voor de vraag:** Selecteer het vragend voornaamwoord in de gegeven zin.
+
+**Vraag 7:** Wat is het vragend voornaamwoord in deze zin?  
+*"Welke kleur heeft jouw nieuwe auto?"*  
+A) Welke  
+B) Kleur  
+C) Heeft  
+D) Jouw  
+
+
+---
+
+**Instructie voor de vraag:** Geef het onbepaald voornaamwoord in de zin.
+
+**Vraag 8:** Wat is het onbepaald voornaamwoord in deze zin?  
+*"Iedereen was aanwezig tijdens het feest."*  
+A) Iedereen  
+B) Was  
+C) Aanwezig  
+D) Tijdens het feest  
+
+
+---
+
+**Instructie voor de vraag:** Identificeer het aanwijzend voornaamwoord in de gegeven zin.
+
+**Vraag 9:** Welk deel van de zin fungeert als het aanwijzend voornaamwoord?  
+*"Dat boek heb ik al gelezen."*  
+A) Dat boek  
+B) Heb  
+C) Al gelezen  
+D) Gelezen  
+
+
+---
+
+**Instructie voor de vraag:** Geef het vragend voornaamwoord in de zin.
+
+**Vraag 10:** Wat is het vragend voornaamwoord in deze zin?  
+*"Waarom ben je zo laat thuis?"*  
+A) Waarom  
+B) Ben  
+C) Je  
+D) Zo laat  
+
+
+---
+
