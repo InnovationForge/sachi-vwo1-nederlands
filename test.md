@@ -1,136 +1,242 @@
-**Oefening 1: Vul de juiste vorm van het werkwoord in.**
-1. Zij **______** (lopen, t) elke ochtend een rondje in het park.
-2. Het kind **______** (huilen, t) omdat het zijn speelgoed niet kon vinden.
-...
-20. De leraar **______** (vergeten, t) de toetsen mee te nemen naar huis.
 
-**Oefening 2: Vul de juiste vorm van het werkwoord in.**
-1. De monteur **______** (repareren, t) de auto binnen een uur.
-...
-10. De bakker **______** (bakken, t) vers brood vroeg in de ochtend.
+# Zaterdag 
 
-# Vrijdag
+### Bijwoordelijke bepaling
 
-Meewerkend Voorwerp
-A Meewerkend Voorwerp is the one who receives or learns something or from whom something is taken¹. In the sentence 'De zon geeft ons energie' ('The sun gives us energy'), 'ons' is the Meewerkend Voorwerp¹. The Meewerkend Voorwerp is often the 'receiving party'. It is a certain type of indirect object¹. Often the Meewerkend Voorwerp starts with the preposition 'aan' – if it is not in the sentence, it can usually be thought of¹.
+A Bijwoordelijke Bepaling is a part of the sentence that provides more information about another part of the sentence (usually the predicate)¹. A sentence can contain multiple Bijwoordelijke Bepalingen¹. They often provide information about time, place, or a reason⁴. You can see the Bijwoordelijke Bepaling as a kind of 'trash can'. First, go through all the other steps during sentence analysis. Everything that remains is the Bijwoordelijke Bepaling⁴.
 
-### Meewerkend voorwerp
+**Instructie voor de vraag:** Onderstreep de bijwoordelijke bepaling in de gegeven zin.
 
-**Instructie voor de vraag:** Onderstreep het meewerkend voorwerp in de gegeven zin.
-
-**Vraag 1:** Wat is het meewerkend voorwerp in de volgende zin?  
-*"Ik geef mijn zus een cadeau voor haar verjaardag."*  
-A) Ik  
-B) Geef  
-C) Mijn zus  
-D) Een cadeau  
-
-
----
-
-**Instructie voor de vraag:** Benoem het meewerkend voorwerp in de gegeven zin.
-
-**Vraag 2:** Wat is het meewerkend voorwerp in deze zin?  
-*"De leraar legt de leerlingen de lesstof duidelijk uit."*  
-A) De leraar  
-B) Legt uit  
-C) De leerlingen  
-D) De lesstof  
-
-
----
-
-**Instructie voor de vraag:** Identificeer het meewerkend voorwerp in de gegeven zin.
-
-**Vraag 3:** Welk deel van de zin fungeert als het meewerkend voorwerp?  
-*"Zij stuurt haar moeder een lief berichtje."*  
-A) Zij  
-B) Stuurt  
-C) Haar moeder  
-D) Een lief berichtje  
-
-
----
-
-**Instructie voor de vraag:** Geef het meewerkend voorwerp in de zin.
-
-**Vraag 4:** Wat is het meewerkend voorwerp in deze zin?  
-*"Hij heeft zijn vriendin een boek cadeau gegeven."*  
+**Vraag 1:** Wat is de bijwoordelijke bepaling in de volgende zin?  
+*"Hij kwam gisteren heel snel naar huis."*  
 A) Hij  
-B) Heeft gegeven  
-C) Zijn vriendin  
-D) Een boek  
-
-
----
-
-**Instructie voor de vraag:** Onderscheid het meewerkend voorwerp in de zin.
-
-**Vraag 5:** Welk deel van de zin vormt het meewerkend voorwerp?  
-*"De bakker bakt de klant een vers brood."*  
-A) De bakker  
-B) Bakt  
-C) De klant  
-D) Een vers brood  
-
-
-### Aanwijzend, vragend en onbepaald voornaamwoord
-
-**Instructie voor de vraag:** Geef het aanwijzend voornaamwoord in de gegeven zin.
-
-**Vraag 6:** Wat is het aanwijzend voornaamwoord in de volgende zin?  
-*"Deze boeken zijn interessant."*  
-A) Deze  
-B) Boeken  
-C) Zijn  
-D) Interessant  
-
+B) Gisteren  
+C) Heel snel  
+D) Naar huis  
 
 ---
 
-**Instructie voor de vraag:** Selecteer het vragend voornaamwoord in de gegeven zin.
+**Instructie voor de vraag:** Identificeer de bijwoordelijke bepaling in de zin.
 
-**Vraag 7:** Wat is het vragend voornaamwoord in deze zin?  
-*"Wie heeft dat gedaan?"*  
-A) Wie  
-B) Heeft  
-C) Dat  
-D) Gedaan  
-
-
----
-
-**Instructie voor de vraag:** Geef het onbepaald voornaamwoord in de zin.
-
-**Vraag 8:** Wat is het onbepaald voornaamwoord in deze zin?  
-*"Iedereen kan meedoen aan de wedstrijd."*  
-A) Iedereen  
-B) Kan  
-C) Meedoen  
-D) Aan de wedstrijd  
-
+**Vraag 2:** Welk deel van de zin fungeert als bijwoordelijke bepaling?  
+*"Zij werkt altijd hard in de tuin."*  
+A) Zij  
+B) Altijd  
+C) Hard  
+D) In de tuin  
 
 ---
 
-**Instructie voor de vraag:** Benoem het aanwijzend voornaamwoord in de gegeven zin.
+**Instructie voor de vraag:** Selecteer de bijwoordelijke bepaling in de gegeven zin.
 
-**Vraag 9:** Wat is het aanwijzend voornaamwoord in deze zin?  
-*"Dat boek is van mij."*  
-A) Dat  
-B) Boek  
-C) Is  
-D) Van mij  
-
+**Vraag 3:** Wat is de bijwoordelijke bepaling in deze zin?  
+*"De trein vertrekt morgen vroeg naar Parijs."*  
+A) De trein  
+B) Morgen vroeg  
+C) Naar Parijs  
+D) Vertrekt  
 
 ---
 
-**Instructie voor de vraag:** Selecteer het onbepaald voornaamwoord in de gegeven zin.
+**Instructie voor de vraag:** Geef de bijwoordelijke bepaling in de zin.
 
-**Vraag 10:** Wat is het onbepaald voornaamwoord in deze zin?  
-*"Niemand heeft dit eerder gezien."*  
-A) Niemand  
-B) Heeft  
-C) Dit  
-D) Eerder  
+**Vraag 4:** Wat is de bijwoordelijke bepaling in deze zin?  
+*"Zij lachte vriendelijk naar haar buurvrouw."*  
+A) Zij  
+B) Lachte vriendelijk  
+C) Naar haar buurvrouw  
+D) Buurvrouw  
 
+---
 
+**Instructie voor de vraag:** Onderscheid de bijwoordelijke bepaling in de zin.
+
+**Vraag 5:** Welk deel van de zin vormt de bijwoordelijke bepaling?  
+*"De kinderen spelen buiten in de zon."*  
+A) De kinderen  
+B) Buiten  
+C) In de zon  
+D) Spelen  
+
+### Voorzetsel en bijwoord
+
+Voorzetsel
+A Voorzetsel (preposition) is a word that indicates a direction, place, or relationship¹. You always use these words together with another word, which can be a noun, pronoun, or verb¹. A Voorzetsel always expresses a relationship between the word group it is part of and another part of the sentence¹. This can be the verb that stands before it¹. Voorzetsels are almost part of a word group in which the main word is a verb¹.
+
+Bijwoord
+A Bijwoord (adverb) is a word that modifies a verb, adjective, other adverb, clause, or sentence¹. Bijwoorden typically answer questions such as how?, in what way?, when?, where?, and to what extent?¹. This function is called the adverbial function, and may be performed by single words (adverbs) or by multi-word phrases¹.
+
+**Instructie voor de vraag:** Onderstreep het voorzetsel in de gegeven zin.
+
+**Vraag 6:** Wat is het voorzetsel in de volgende zin?  
+*"Zij liep door het park naar huis."*  
+A) Zij  
+B) Door  
+C) Naar  
+D) Huis  
+
+---
+
+**Instructie voor de vraag:** Identificeer het bijwoord in de zin.
+
+**Vraag 7:** Welk deel van de zin fungeert als bijwoord?  
+*"Hij reed erg langzaam op de smalle weg."*  
+A) Erg  
+B) Langzaam  
+C) Op  
+D) De smalle weg  
+
+---
+
+**Instructie voor de vraag:** Selecteer het voorzetsel in de gegeven zin.
+
+**Vraag 8:** Wat is het voorzetsel in deze zin?  
+*"Ze sprong over de rivier naar de overkant."*  
+A) Sprong  
+B) Over  
+C) Naar  
+D) De rivier  
+
+---
+
+**Instructie voor de vraag:** Geef het bijwoord in de zin.
+
+**Vraag 9:** Wat is het bijwoord in deze zin?  
+*"Hij kwam hier gisteren aan."*  
+A) Hier  
+B) Kwam  
+C) Gisteren  
+D) Aan  
+
+---
+
+**Instructie voor de vraag:** Onderscheid het voorzetsel in de zin.
+
+**Vraag 10:** Welk deel van de zin vormt het voorzetsel?  
+*"Zij liep langs de rivier naar het kasteel."*  
+A) Langs  
+B) De rivier  
+C) Naar  
+D) Het kasteel  
+
+---
+
+### Bijwoordelijke bepaling
+
+A Bijwoordelijke Bepaling is a part of the sentence that provides more information about another part of the sentence (usually the predicate)¹. A sentence can contain multiple Bijwoordelijke Bepalingen¹. They often provide information about time, place, or a reason⁴. You can see the Bijwoordelijke Bepaling as a kind of 'trash can'. First, go through all the other steps during sentence analysis. Everything that remains is the Bijwoordelijke Bepaling⁴.
+
+**Instructie voor de vraag:** Onderstreep de bijwoordelijke bepaling in de gegeven zin.
+
+**Vraag 11:** Wat is de bijwoordelijke bepaling in de volgende zin?  
+*"Hij wandelt rustig door het park."*  
+A) Hij  
+B) Wandelt  
+C) Rustig  
+D) Door het park  
+
+---
+
+**Instructie voor de vraag:** Identificeer de bijwoordelijke bepaling in de zin.
+
+**Vraag 12:** Welk deel van de zin fungeert als bijwoordelijke bepaling?  
+*"Ze werkt hard aan haar scriptie."*  
+A) Ze werkt  
+B) Hard  
+C) Aan haar scriptie  
+D) Scriptie  
+
+---
+
+**Instructie voor de vraag:** Selecteer de bijwoordelijke bepaling in de gegeven zin.
+
+**Vraag 13:** Wat is de bijwoordelijke bepaling in deze zin?  
+*"We gaan morgen naar de bioscoop."*  
+A) We gaan  
+B) Morgen  
+C) Naar de bioscoop  
+D) De bioscoop  
+
+---
+
+**Instructie voor de vraag:** Geef de bijwoordelijke bepaling in de zin.
+
+**Vraag 14:** Wat is de bijwoordelijke bepaling in deze zin?  
+*"Zij zingt prachtig tijdens het concert."*  
+A) Zij zingt  
+B) Prachtig  
+C) Tijdens het concert  
+D) Concert  
+
+---
+
+**Instructie voor de vraag:** Onderscheid de bijwoordelijke bepaling in de zin.
+
+**Vraag 15:** Welk deel van de zin vormt de bijwoordelijke bepaling?  
+*"Hij spreekt vloeiend Engels in zijn presentatie."*  
+A) Hij spreekt  
+B) Vloeiend Engels  
+C) In zijn presentatie  
+D) Presentatie  
+
+### Voorzetsel en bijwoord
+
+Voorzetsel
+A Voorzetsel (preposition) is a word that indicates a direction, place, or relationship¹. You always use these words together with another word, which can be a noun, pronoun, or verb¹. A Voorzetsel always expresses a relationship between the word group it is part of and another part of the sentence¹. This can be the verb that stands before it¹. Voorzetsels are almost part of a word group in which the main word is a verb¹.
+
+Bijwoord
+A Bijwoord (adverb) is a word that modifies a verb, adjective, other adverb, clause, or sentence¹. Bijwoorden typically answer questions such as how?, in what way?, when?, where?, and to what extent?¹. This function is called the adverbial function, and may be performed by single words (adverbs) or by multi-word phrases¹.
+
+**Instructie voor de vraag:** Onderstreep het voorzetsel in de gegeven zin.
+
+**Vraag 16:** Wat is het voorzetsel in de volgende zin?  
+*"De kat ligt onder de tafel."*  
+A) De kat  
+B) Ligt  
+C) Onder  
+D) De tafel  
+
+---
+
+**Instructie voor de vraag:** Identificeer het voorzetsel in de zin.
+
+**Vraag 17:** Welk deel van de zin fungeert als voorzetsel?  
+*"Hij komt uit een klein dorp."*  
+A) Hij komt  
+B) Uit  
+C) Een klein dorp  
+D) Klein  
+
+---
+
+**Instructie voor de vraag:** Selecteer het voorzetsel in de gegeven zin.
+
+**Vraag 18:** Wat is het voorzetsel in deze zin?  
+*"Ze gaat naar de stad."*  
+A) Ze gaat  
+B) Naar  
+C) De stad  
+D) Stad  
+
+---
+
+**Instructie voor de vraag:** Geef het voorzetsel in de zin.
+
+**Vraag 19:** Wat is het voorzetsel in deze zin?  
+*"Hij staat voor de deur te wachten."*  
+A) Hij staat  
+B) Voor  
+C) De deur  
+D) Te wachten  
+
+---
+
+**Instructie voor de vraag:** Onderscheid het bijwoord in de zin.
+
+**Vraag 20:** Welk deel van de zin vormt het bijwoord?  
+*"Zij loopt snel door het park."*  
+A) Zij loopt  
+B) Snel  
+C) Door het park  
+D) Park  
+
+---
