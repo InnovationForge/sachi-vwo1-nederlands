@@ -1,3 +1,13 @@
+**Oefening 1: Vul de juiste vorm van het werkwoord in.**
+1. Zij **______** (lopen, t) elke ochtend een rondje in het park.
+2. Het kind **______** (huilen, t) omdat het zijn speelgoed niet kon vinden.
+...
+20. De leraar **______** (vergeten, t) de toetsen mee te nemen naar huis.
+
+**Oefening 2: Vul de juiste vorm van het werkwoord in.**
+1. De monteur **______** (repareren, t) de auto binnen een uur.
+...
+10. De bakker **______** (bakken, t) vers brood vroeg in de ochtend.
 
 # Vrijdag
 
